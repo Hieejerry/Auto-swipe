@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AutoSwipe</string>
+
+    <string name="accessibility_service_description">
+    AutoSwipe automatically swipes to the next short video.
+    </string>
+</resources>
